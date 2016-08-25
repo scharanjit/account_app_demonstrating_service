@@ -1,4 +1,4 @@
-package com.imaginea
+package org.imaginea
 
 class Account {
 
